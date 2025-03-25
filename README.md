@@ -1,2 +1,17 @@
 # FridayThe13thKillerPuzzleKillerMarathon
-A bot for Friday the 13th: Killer Puzzle's killer marathon mode.
+
+**Requirements:**
+mss
+numpy
+psutil
+pydirectinput
+keyboard
+pywin32
+
+**To install ype into cmd:**
+pip install mss numpy psutil pydirectinput keyboard pywin32
+
+**How to use:**
+-set your resolution in the game to 1920x1080
+-open the Python file while the game is open
+-launch killer marathon
