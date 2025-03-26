@@ -15,5 +15,5 @@ pip install mss numpy psutil pydirectinput keyboard pywin32
 **How to use:**
 set your resolution in the game to 1920x1080 (fullscreen),
 open the Python file while the game is open,
-launch killer marathon
+launch killer marathon,
 press F6 to stop the bot
